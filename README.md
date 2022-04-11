@@ -1,4 +1,4 @@
-# Time Series Analysis and Forecasting of Household Power Consumption 
+<h1><p align='center'> Time Series Analysis and Forecasting of Household Power Consumption</p></h1> 
 
 Electricity power consumption forecasting has become increasingly important in present-day electrical power management systems. The project aims to develop and compare models for forecasting time series data on household electricity consumption using SARIMA, LSTM, linear regression and random forest. The selection of the optimal forecasting model is based on some metrics like RMSE, R2 score and MAPE.
 
