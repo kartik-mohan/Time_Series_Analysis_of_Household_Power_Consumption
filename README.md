@@ -1,5 +1,6 @@
-<h1><p align='center'> Time Series Analysis and Forecasting of Household Power Consumption</p></h1> 
+<h1><p align='center'><image src = 'https://github.com/mohan-kartik/Time_Series_Analysis_of_Household_Power_Consumption/assets/42971268/6f0c1c4a-dc8a-4ee1-b32b-e1991f55f5b8' width=350></p>
 
+## Project Objective
 Electricity power consumption forecasting has become increasingly important in present-day electrical power management systems. The project aims to develop and compare models for forecasting time series data on household electricity consumption using SARIMA, LSTM, linear regression and random forest. The selection of the optimal forecasting model is based on some metrics like RMSE, R2 score and MAPE.
 
 Dataset description: http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
